@@ -5,7 +5,98 @@ ecommerce web
         </title>
         
         <link rel="stylesheet" href="./ecocss/eco.css">
-        
+        <style>
+        body{
+    font: 15px/1.5  Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f2f2;
+}
+h1{
+    color: white;
+    text-align: center;   
+    font-size: 15px;
+}
+header h1{
+    background-color: rgba(51, 96, 218, 0.973);
+}
+
+header nav{
+    margin-top: 1px;
+    text-align: center;
+    background-color: rgba(51, 96, 218, 0.973);
+    padding: 10;
+
+
+}
+.anan{
+padding: 15px;
+color: rgb(232, 235, 238);
+font-weight: bold;
+text-decoration: none;
+float:center;
+
+}
+.anan:hover{
+    color: rgb(241, 231, 86);
+}
+.search{
+    border-color: blue;
+    padding: 12px;
+}
+.placeholder{
+    padding: 12px;
+    align-items: center;
+}
+#section{
+    background-color: blue;
+}
+#newsletter{
+    padding: 40px;
+    color: #ffffff;
+    background: #0670b3;
+    border-bottom:rgb(8, 113, 233) 3px solid;
+    float: center;
+    padding-left: 50;
+} 
+
+#newsletter form{
+    float: center;
+}
+
+.button_1{
+    color: #ffffff;
+    background: #0675be;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0;
+    height: 38px;
+}
+#newsletter input[type="email"]{
+    height:50px;
+    width: 500px;
+    padding:4px;
+    
+}
+.logo{
+    width: 100 px;
+}
+form{
+    float:center;
+}
+header{
+    background-color: rgba(51, 96, 218, 0.973);
+
+
+
+
+
+}
+#fotter{
+    background-color: rgba(51, 96, 218, 0.973);
+
+}
+        </style>
     </head>
     
     <body>
